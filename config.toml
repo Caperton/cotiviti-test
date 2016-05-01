@@ -1,3 +1,7 @@
 baseurl = "http://blog.cotiviti.io/"
 languageCode = "en-us"
 title = "Cotiviti Technology Blog"
+
+
+[Params]
+description = "This is the blog that my stupid boyfriend told his boss I know how to make"
